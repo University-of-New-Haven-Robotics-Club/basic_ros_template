@@ -1,0 +1,5 @@
+motor_tester
+/code/solution/devel/.private/motor_tester/cmake.lock /code/solution/devel/./cmake.lock
+/code/solution/devel/.private/motor_tester/lib/pkgconfig/motor_tester.pc /code/solution/devel/lib/pkgconfig/motor_tester.pc
+/code/solution/devel/.private/motor_tester/share/motor_tester/cmake/motor_testerConfig.cmake /code/solution/devel/share/motor_tester/cmake/motor_testerConfig.cmake
+/code/solution/devel/.private/motor_tester/share/motor_tester/cmake/motor_testerConfig-version.cmake /code/solution/devel/share/motor_tester/cmake/motor_testerConfig-version.cmake
